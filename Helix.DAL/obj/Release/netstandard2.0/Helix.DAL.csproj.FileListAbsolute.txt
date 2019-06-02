@@ -7,3 +7,12 @@
 /Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.AssemblyInfo.cs
 /Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.dll
 /Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/Assignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.deps.json
+/Users/filipo/Assignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Assignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.csprojAssemblyReference.cache
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.csproj.CoreCompileInputs.cache
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.AssemblyInfoInputs.cache
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.AssemblyInfo.cs
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Assignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.pdb

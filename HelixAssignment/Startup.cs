@@ -102,9 +102,6 @@ namespace HelixAssignment
                 app.UseHsts();
             }
 
-
-
-
             app.UseHttpsRedirection();
             app.UseMiddleware<CustomExceptionMiddleware>();
             app.UseMvc();

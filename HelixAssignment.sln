@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL", "Helix.DAL\Heli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.BAL", "Helix.BAL\Helix.BAL.csproj", "{EB14E163-218E-42D1-885E-BD3C4823865B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL.Tests", "Test\Helix.DAL.Tests.csproj", "{68796F23-A88E-48B3-8A86-C1CDAE437282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixAssignment.Tests", "HelixAssignment.Tests\HelixAssignment.Tests.csproj", "{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +29,13 @@ Global
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

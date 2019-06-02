@@ -22,3 +22,15 @@
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.csproj.CopyComplete
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.dll
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.pdb
+/Users/filipo/Assignment/Helix.BAL/bin/Debug/netstandard2.0/Helix.BAL.deps.json
+/Users/filipo/Assignment/Helix.BAL/bin/Debug/netstandard2.0/Helix.BAL.dll
+/Users/filipo/Assignment/Helix.BAL/bin/Debug/netstandard2.0/Helix.BAL.pdb
+/Users/filipo/Assignment/Helix.BAL/bin/Debug/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Assignment/Helix.BAL/bin/Debug/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.csprojAssemblyReference.cache
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.csproj.CoreCompileInputs.cache
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.AssemblyInfoInputs.cache
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.AssemblyInfo.cs
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.csproj.CopyComplete
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.dll
+/Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.pdb

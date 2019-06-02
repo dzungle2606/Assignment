@@ -1,0 +1,2 @@
+/Users/filipo/Assignment/Helix.Domain.Tests/obj/Debug/People.Domain.Tests.csprojAssemblyReference.cache
+/Users/filipo/Assignment/Helix.Domain.Tests/obj/Debug/People.Domain.Tests.csproj.CoreCompileInputs.cache

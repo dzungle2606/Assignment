@@ -1,0 +1,9 @@
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.deps.json
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Release/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.csprojAssemblyReference.cache
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.csproj.CoreCompileInputs.cache
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.AssemblyInfoInputs.cache
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.AssemblyInfo.cs
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Release/netstandard2.0/Helix.DAL.pdb

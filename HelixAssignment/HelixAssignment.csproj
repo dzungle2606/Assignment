@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="DataContracts\" />
+    <Folder Include="ErrorHandlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\ValidateModelAttribute.cs" />
+    <Compile Remove="BAL\HelixEventService %28copy%29.cs" />
+    <Compile Remove="BAL\HelixEvent\HelixEventService.cs" />
+    <Compile Remove="BAL\HelixEvent\IHelixEventService.cs" />
+    <Compile Remove="Data\DbContext\HelixDbContext.cs" />
+    <Compile Remove="Services\HelixEvent\HelixEventDbService.cs" />
+    <Compile Remove="Services\HelixEvent\IHelixEventDbService.cs" />
+    <Compile Remove="Services\HelixEventProduct\HelixEventProductDbService.cs" />
+    <Compile Remove="Services\HelixEventProduct\IHelixEventProductDbService.cs" />
+    <Compile Remove="Services\Product\IProductDbService.cs" />
+    <Compile Remove="Services\Product\ProductDbService.cs" />
+    <Compile Remove="Data\DbModels\HelixEventProduct.cs" />
+    <Compile Remove="Data\DbModels\Product.cs" />
+    <Compile Remove="ViewModel\HelixViewModel.cs" />
+    <Compile Remove="DAL\Data\DbModels\HelixEvent.cs" />
+    <Compile Remove="DAL\Data\DbModels\HelixEventProduct.cs" />
+    <Compile Remove="DAL\Data\DbModels\Product.cs" />
+    <Compile Remove="DAL\Services\HelixEvent\HelixEventDbService.cs" />
+    <Compile Remove="DAL\Services\HelixEvent\IHelixEventDbService.cs" />
+    <Compile Remove="DAL\Services\HelixEventProduct\HelixEventProductDbService.cs" />
+    <Compile Remove="DAL\Services\HelixEventProduct\IHelixEventProductDbService.cs" />
+    <Compile Remove="DAL\Services\Product\IProductDbService.cs" />
+    <Compile Remove="DAL\Services\Product\ProductDbService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="BAL\.DS_Store" />
+    <None Remove="DAL\.DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Helix.BAL\Helix.BAL.csproj" />
+  </ItemGroup>
+</Project>

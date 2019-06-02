@@ -1,0 +1,16 @@
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.deps.json
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.csproj.CoreCompileInputs.cache
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfoInputs.cache
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfo.cs
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.dll
+/Users/filipo/Projects/HelixAssignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.deps.json
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.dll
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.pdb
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.csproj.CoreCompileInputs.cache
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfoInputs.cache
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfo.cs
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.dll
+/Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.pdb

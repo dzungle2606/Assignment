@@ -3,9 +3,9 @@
 ## Functional Assumpions
 1. N-N relationship between Event and Product
 2. PutProducts is a single point API which is designed to do the following:
-- Insert/Update Event
-- 	Insert/Update Products' details
-- 	Update the sales specific details of products sold in the event
+- Insert/Update Event (ID, Timestamp)
+- 	Insert/Update Products' details (Product Id, Name)
+- 	Update the sales specific details of products sold in the event (Sales_amount, etc)
 
 ## Prerequisites
 * .NET Core v2.1.11 (SDK 2.1.700 to build apps Or Runtime 2.1.11 to run apps)
@@ -68,6 +68,8 @@ Response Sample
 ```python
 URL: https://localhost:{running_port}/api/helix/GetProducts
 Method: GET
+
+Response Sample
 [
     {
         "eventId": 1,

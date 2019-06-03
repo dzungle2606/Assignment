@@ -91,7 +91,7 @@ Response Sample
     }
  ]
 ```
-## Future Improvement (in reality)
+## Future Improvement (for PRD application)
 * The common logging modules could be implemented for easier tracking & monitoring. Files could be stored on the cloud storage like AWS S3
 * The exception handling should be wrapped, logged and passed back to calling layers with proper messages (DAL => BAL => API service)
 

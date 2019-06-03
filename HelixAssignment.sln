@@ -1,15 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixAssignment", "HelixAssignment\HelixAssignment.csproj", "{207D5A88-D498-4CFF-9710-921DC1305B09}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelixAssignment", "HelixAssignment\HelixAssignment.csproj", "{207D5A88-D498-4CFF-9710-921DC1305B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL", "Helix.DAL\Helix.DAL.csproj", "{48215ED8-44E2-4CC6-B4E1-55F535F85382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helix.DAL", "Helix.DAL\Helix.DAL.csproj", "{48215ED8-44E2-4CC6-B4E1-55F535F85382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.BAL", "Helix.BAL\Helix.BAL.csproj", "{EB14E163-218E-42D1-885E-BD3C4823865B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL.Tests", "Test\Helix.DAL.Tests.csproj", "{68796F23-A88E-48B3-8A86-C1CDAE437282}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixAssignment.Tests", "HelixAssignment.Tests\HelixAssignment.Tests.csproj", "{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helix.BAL", "Helix.BAL\Helix.BAL.csproj", "{EB14E163-218E-42D1-885E-BD3C4823865B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,13 +26,11 @@ Global
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68796F23-A88E-48B3-8A86-C1CDAE437282}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C4148A6-EE9C-4581-B5B0-BFC072682EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB5ACA9-91C1-4751-B901-D5E73004F6E4}
 	EndGlobalSection
 EndGlobal

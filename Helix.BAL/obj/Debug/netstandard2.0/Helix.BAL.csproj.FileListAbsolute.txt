@@ -34,3 +34,15 @@
 /Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.csproj.CopyComplete
 /Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.dll
 /Users/filipo/Assignment/Helix.BAL/obj/Debug/netstandard2.0/Helix.BAL.pdb
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\bin\Debug\netstandard2.0\Helix.BAL.deps.json
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\bin\Debug\netstandard2.0\Helix.BAL.dll
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\bin\Debug\netstandard2.0\Helix.BAL.pdb
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\bin\Debug\netstandard2.0\Helix.DAL.dll
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\bin\Debug\netstandard2.0\Helix.DAL.pdb
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.csproj.CopyComplete
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.dll
+C:\Users\Administrator\Documents\Assignment\Helix.BAL\obj\Debug\netstandard2.0\Helix.BAL.pdb

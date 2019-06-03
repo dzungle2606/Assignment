@@ -78,14 +78,13 @@ namespace HelixAssignment
 
                 services.AddAuthorization(opts =>
                 {
-                    opts.AddPolicy("SurveyCreator", p =>
+                    opts.AddPolicy("NaveenLe", p =>
                     {
                         // Using value text for demo show, else use enum : ClaimTypes.Role
-                        p.RequireClaim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role", "SurveyCreator");
+                        p.RequireClaim("http://schemas.microsoft.com/ws/2008/06/identity/claims/role", "NaveenLe");
                     });
                 });
             ********/
-
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

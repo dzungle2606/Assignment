@@ -35,7 +35,7 @@ namespace HelixAssignment.Controllers
         [HttpGet("Test")]
         public string Test()
         {
-            return "LE VIET DUNG";
+            return "Welcome the the Test Page!!!";
         }
 
         // GET: api/helix/GetEvents

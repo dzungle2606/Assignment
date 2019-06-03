@@ -93,7 +93,8 @@ Response Sample
 ```
 ## Future Improvement (for PRD application)
 * The common logging modules could be implemented for easier tracking & monitoring. Files could be stored on the cloud storage like AWS S3
-* The exception handling should be wrapped, logged and passed back to calling layers with proper messages (DAL => BAL => API service)
+* System should log the thrown exception in a sink (pool of text files or DB) for technical troubleshooting and replace the Exception with a more User-Friendly Message and propagate it through the calling layers  (DAL => BAL => API service)
+* Instead of using EF with in-memory DB to enable the portability for reviewer, the MSSQL DB should be designed.3rd party software tools + T4 Templates could be made use of to generate SQL Stored Procedures, DAL, BAL for rapid development and greater customizated business code.
 
 ## Pending 
 * The test suite projects for BAL, DAL and HelixAssignment (coming soon)

@@ -11,9 +11,9 @@ using Microsoft.Extensions.Logging;
 using System;
 using HelixAssignment.ViewModel;
 using Microsoft.AspNetCore.Authorization;
-
 using HelixAssignment.BAL;
 using HelixAssignment.DAL;
+using Microsoft.AspNetCore.Http;
 
 namespace HelixAssignment.Controllers
 {
@@ -42,7 +42,7 @@ namespace HelixAssignment.Controllers
         [HttpGet("GetProducts")]
         public async Task<ActionResult<ICollection<HelixEvent>>> GetProducts()
         {
-            ICollection<HelixEvent> list = null;
+            ICollection<HelixEvent> list = new List<HelixEvent>();
             try
             {
                 list = await _eventService.GetAllEvents();
@@ -88,7 +88,9 @@ namespace HelixAssignment.Controllers
 
         // PUT: api/helix/PutProducts
         [HttpPut("PutProducts")]
-        public async Task<HttpResponseMessage> PutProductsToEvent([FromBody]HelixEventViewModel eventRequest)
+        [ProducesResponseType(typeof(string), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> PutProductsToEvent([FromBody]HelixEventViewModel eventRequest)
         {
             if (ModelState.IsValid)
             {
@@ -116,12 +118,11 @@ namespace HelixAssignment.Controllers
                 // Do something else here in reality concurrently without waiting for products updates completed
                 //await updateTask;
 
-                return new HttpResponseMessage(HttpStatusCode.OK);
+                return Ok();
             }
             else
             {
-                HttpRequestMessage request = new HttpRequestMessage();
-                return request.CreateResponse(HttpStatusCode.BadRequest);
+                return BadRequest();
             }
         }       
     }

@@ -14,6 +14,14 @@
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfo.cs
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.dll
 /Users/filipo/TEST/HelixAssignment_LatestNotWorking/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.pdb
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.deps.json
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.dll
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.pdb
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfoInputs.cache
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.AssemblyInfo.cs
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.dll
+C:/Users/Administrator/Documents/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.pdb
 /Users/filipo/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.deps.json
 /Users/filipo/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.dll
 /Users/filipo/Assignment/Helix.DAL/bin/Debug/netstandard2.0/Helix.DAL.pdb
@@ -23,11 +31,3 @@
 /Users/filipo/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.dll
 /Users/filipo/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.pdb
 /Users/filipo/Assignment/Helix.DAL/obj/Debug/netstandard2.0/Helix.DAL.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\bin\Debug\netstandard2.0\Helix.DAL.deps.json
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\bin\Debug\netstandard2.0\Helix.DAL.dll
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\bin\Debug\netstandard2.0\Helix.DAL.pdb
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\obj\Debug\netstandard2.0\Helix.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\obj\Debug\netstandard2.0\Helix.DAL.AssemblyInfoInputs.cache
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\obj\Debug\netstandard2.0\Helix.DAL.AssemblyInfo.cs
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\obj\Debug\netstandard2.0\Helix.DAL.dll
-C:\Users\Administrator\Documents\Assignment\Helix.DAL\obj\Debug\netstandard2.0\Helix.DAL.pdb

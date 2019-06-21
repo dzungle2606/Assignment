@@ -3,9 +3,28 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelixAssignment" expanded="True" selected="True">
-            <Node name="HelixAssignment.Tests" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+          <Node name="HelixAssignment" expanded="True">
+            <Node name="Helix.BAL" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="HelixEvent" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Helix.DAL" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="HelixEvent" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Helix.DAL.Test" expanded="True" />
+            <Node name="HelixAssignment" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelixController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="HelixAssignment.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
@@ -14,10 +33,16 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.HelixAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelixAssignment.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>HelixAssignment.Test1/HelixAssignment.Test1.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/filipo/Assignment/Helix.DAL/Services/HelixEvent/HelixEventDbService.cs" relfile="Helix.DAL/Services/HelixEvent/HelixEventDbService.cs" line="40" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

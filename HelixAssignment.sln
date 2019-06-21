@@ -4,9 +4,13 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelixAssignment", "HelixAssignment\HelixAssignment.csproj", "{207D5A88-D498-4CFF-9710-921DC1305B09}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helix.DAL", "Helix.DAL\Helix.DAL.csproj", "{48215ED8-44E2-4CC6-B4E1-55F535F85382}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL", "Helix.DAL\Helix.DAL.csproj", "{48215ED8-44E2-4CC6-B4E1-55F535F85382}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helix.BAL", "Helix.BAL\Helix.BAL.csproj", "{EB14E163-218E-42D1-885E-BD3C4823865B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.BAL", "Helix.BAL\Helix.BAL.csproj", "{EB14E163-218E-42D1-885E-BD3C4823865B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixAssignment.Test", "HelixAssignment.Test\HelixAssignment.Test.csproj", "{BEB162B3-075F-4EB1-9354-33A7B94091FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helix.DAL.Test", "Helix.DAL.Test\Helix.DAL.Test.csproj", "{3B181854-91F5-49C5-8641-3B0B3358DC1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,14 @@ Global
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB14E163-218E-42D1-885E-BD3C4823865B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB162B3-075F-4EB1-9354-33A7B94091FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB162B3-075F-4EB1-9354-33A7B94091FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB162B3-075F-4EB1-9354-33A7B94091FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB162B3-075F-4EB1-9354-33A7B94091FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B181854-91F5-49C5-8641-3B0B3358DC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B181854-91F5-49C5-8641-3B0B3358DC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B181854-91F5-49C5-8641-3B0B3358DC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B181854-91F5-49C5-8641-3B0B3358DC1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
